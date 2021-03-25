@@ -1,0 +1,15 @@
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe.config
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.pdb
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csprojAssemblyReference.cache
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Form1.resources
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Properties.Resources.resources
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csproj.GenerateResource.cache
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csproj.CoreCompileInputs.cache
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.exe
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.pdb
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Resources\Pastel.jpg
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Resources\Coxinha.jpg
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Resources\Chocolate.jpg
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Resources\Suco.jpeg
+C:\Users\Julienry\Estudo Bradesco\Linguagem de Programação C# - Básico\Projetos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Resources\Hot Dog.jpg
